@@ -1,3 +1,13 @@
+html {
+    height:100%;
+}
+
 body {
     font-family: sans-serif;
+    background-image: url('images/gayprideflag.png');
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
